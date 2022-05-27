@@ -1,0 +1,1 @@
+Printing the pattern in C language
